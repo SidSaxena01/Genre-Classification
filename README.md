@@ -2,6 +2,12 @@
 
 This project implements three different approaches to music genre classification using machine learning and deep learning techniques.
 
+[Notebook](./genre_classification-SiddharthSaxena_AndreasPapaeracleous.ipynb)
+or
+<a target="_blank" href="https://colab.research.google.com/github/SidSaxena01/Genre-Classification">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 ## Project Overview
 
 Music genre classification is a fundamental task in Music Information Retrieval (MIR) that automatically categorizes music tracks based on their audio characteristics. We explore three different methodologies for classifying the GTZAN dataset into 10 genres (Blues, Classical, Country, Disco, Hip-hop, Jazz, Metal, Pop, Reggae, and Rock).
